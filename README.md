@@ -1,5 +1,4 @@
-# actividadMaca
-Documento con información de las presentaciones de estudiantes de pregrado.
+# Reflexión de Mesas Moderadas en 1° Congreso de Estudiantes ULagos
 
 
 #### Presentación nº1:
