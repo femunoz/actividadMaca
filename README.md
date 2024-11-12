@@ -1,7 +1,7 @@
 # Reflexión de Mesas Moderadas en 1° Congreso de Estudiantes ULagos
 
 
-#### Presentación nº1:
+### Presentación nº1:
 
 **Estudiante**: Francisca Bustamante
 
@@ -19,7 +19,7 @@ En resumen, esta consiste en crear de mapas parlantes, cuyas ventajas son:
 
 Como resultados esperados y beneficios se espera una mayor participación de las y los estudiantes y el desarrollo del pensamiento crítico.
 
-#### Presentación nº2 
+### Presentación nº2 
 
 **Estudiante**: Juan Ignacio Oyarzún
 
